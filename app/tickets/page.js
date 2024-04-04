@@ -1,7 +1,7 @@
 export default function News() {
   return (
     <main>
-      <h2>News</h2>
+      <h2>Tickets</h2>
     </main>
   )
 }
